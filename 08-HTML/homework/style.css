@@ -1,184 +1,26 @@
-
 body { 
-background-image: url("IMG/RAMEN\ BOWLS.avif");
-background-repeat: repeat-y repeat-x;
-text-align: center;
-margin: 0%;
-padding: 0%;
+    color: chocolate;
  }
-
- img {
-   width: 80%;
-   box-sizing: border-box;
-   padding: 5px;
-   margin-top: 5px;
-   background-color: #797978;
-   object-fit:fill;
-   font-size: 25px;
-   margin-bottom: 20px;
-}
-
-
-.column {
-   display: flex;
-   display: grid;
-   display:inline-table;
-   width: 100%;
-   flex: 100%;
-   padding: 5px;
-}
-
-
-div {
-   text-align: center; 
-}
-
  div p{
-    color: rgb(3, 3, 3);
+    color: coral;
  }
 
+ #thirDiv h1 { background-color: brown; text-align: center;
 
- #thirDiv p {
- margin-top: 10px;
  }
 
- #thirDiv h1 {
-   font-family: "japan";
-   text-align:center;
-   vertical-align: middle;
-   padding: 100px;
-   font-size: 80px;
-   margin-top: 2px;
-   }
+ #thirDiv h1 {text-align: center;
+
+ }
+
+ #thirDiv p {text-align: center;
+
+ }
 
  #thirDiv {
     background-color: chocolate;
-    padding: 50px;
-    border-radius: 5px;
-    border-color:crimson;
-    border-width: 3cm;
-    border:100px solid rgb(220, 30, 20);
-    text-align: left;
-    align-items: center;
-    align-content: center;
  }
 
- 
- #spanID {
-    font-size: 80px;
-    margin: 50px;
-    text-align: start;
-}
-
-#linkRestaurante {
-   font-size: 20px;
-   margin: 50px;
-   text-align:justify;
-}
-
-#formDiv {
-   padding: 50px;
-}
-#imagenramen1 {
-  align-items:center;
-  width: 25%;
-}
-
-#imagenramen2 {
-   align-items:center;
-   width: 25%;
+ #thirDiv {
+    padding: 60px;
  }
-
-#flex-container {
-   display: flex;
-   display:grid;
-   display:inline-block;
-   font-family:'Courier New', Courier, monospace;
-   font-weight: bold;
-   border: 80px solid;
-   width: 800px;
-   background-color:aliceblue;
-   border-color: rgb(232, 74, 12);
-   border:10px solid;
-}
-
-#formDiv {
-   display: flex;
-   display: grid;
-   display: block;
-   border: 10px solid;
-   background-color: rgb(250, 253, 255);
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   font-size: 25px;
-   font-weight: bold;
-   width: 81%;
-   height: 80%;
-   padding: 105px;
-   margin-top: 10px;
-   margin-bottom: 50px;
-   align-items: center;
-   justify-content: center;
-   align-content: center;
-}
-
-#textoIngredientes {
-   margin-bottom: auto;
-   padding: 100px;
-}
-
-#linkRestaurante {
-  text-align: center;
-  align-items: center;
-  align-content: center;
-  margin-top: 5px;
-  margin-block-start: auto;
-}
-
-@font-face {
-   font-family: "japan";
-   src: url(IMG/Japanese\ Robot.ttf);
-}
-@font-face {
-   font-family: "japan2";
-   src: url(IMG/Apple\ Japanese\ Keyboard.ttf);
-}
-
-@font-face {
-   font-family: "japan3";
-   src: url(IMG/JAPAN-Bold.ttf);
-}
-
-#flex-container h1 {
-   font-family: "japan2";
-   font-size: 60px;
-   margin-top: 80px;
-   text-size-adjust: 0;
-}
-
-#textoIngredientes h2 {
-   font-family: "japan";
-   font-size: 60px;
-   margin-top: 80px;
-   text-size-adjust: 0;
-}
-
-
-#fuentePersonalizada h1 {
-   font-family: "japan";
-   font-size: 60px;
-   margin-top: 80px;
-   text-size-adjust: 0;
-}
-
-.cajadeTexto h1 {
-   font-family: "japan";
-   font-size: 60px;
-   margin-top: 80px;
-   text-size-adjust: 0;
-}
-
-
-.thirDiv img {
-   width: 500px;
-   height: 600px;
-}
